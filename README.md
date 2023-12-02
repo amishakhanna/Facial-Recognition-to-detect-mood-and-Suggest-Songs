@@ -1,2 +1,5 @@
-# Facial-Recognition-to-detect-mood-and-Suggest-Songs
-Facial-Recognition-to-detect-mood-and-Suggest-Songs
+# emotion-based-music-ai
+
+just clone this repo or download
+
+and run app.py 
